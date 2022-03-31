@@ -1,0 +1,14 @@
+# user 10 QPTS30.61-18-16-19 da2f0 release-keys
+- manufacturer: 
+- platform: sdm660
+- codename: chef_sprout
+- flavor: user
+- release: 10
+- id: QPTS30.61-18-16-19
+- incremental: da2f0
+- tags: release-keys
+- fingerprint: motorola/chef_retail/chef_sprout:10/QPTS30.61-18-16-19/da2f0:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: user-10-QPTS30.61-18-16-19-da2f0-release-keys
+- repo: motorola_chef_sprout_dump
